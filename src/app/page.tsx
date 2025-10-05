@@ -31,7 +31,7 @@ export default function Home() {
       <div id="hero" className="scroll-mt-24">
         <SplitHero
           title="Welcome to Xeven"
-          subtitle="Your one-stop solution for SaaS needs"
+          subtitle="Yor one-stop solution for SaaS "
           primaryButtonText="Get Started"
           secondaryButtonText="Learn More"
           onPrimaryButtonClick={() => alert('Get Started!')}
