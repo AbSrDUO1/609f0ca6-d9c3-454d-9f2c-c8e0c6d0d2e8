@@ -7,7 +7,7 @@ import HowToBuy3D from '@/components/sections/layouts/howtobuy/3DHTB';
 import ExpandingGridTokenomics from '@/components/sections/layouts/tokenomics/ExpandingGridTokenomics';
 import FooterLogo from '@/components/footer/FooterLogo';
 
-const navItems = [
+cethonst navItems = [
   { name: 'Hero', id: 'hero' },
   { name: 'About', id: 'about' },
   { name: 'How To Buy', id: 'how-to-buy' },
@@ -41,14 +41,14 @@ export default function Home() {
       <div id="about" className="scroll-mt-24">
         <SocialsAbout
           title="About Xeven"
-          descriptions={["We provide the best SaaS solutions.", "Innovative, user-friendly, and reliable services."]}
+          descriptions={["HAHAHHAHAHHAHAHA", "HEuhiewhfihweifje"]}
         />
       </div>
       <div id="how-to-buy" className="scroll-mt-24">
         <HowToBuy3D
           title="How to Buy"
           steps={[
-            { title: 'Step 1', description: 'Sign up for an account', image: '/images/placeholder1.avif', position: 'left', isCenter: false },
+            { title: 'Step 1', description: 'BLAHHHHHHHHHHHHHHHHHHHHHHHHHH', image: '/images/placeholder1.avif', position: 'left', isCenter: false },
             { title: 'Step 2', description: 'Choose your plan', image: '/images/placeholder2.avif', position: 'center', isCenter: true },
             { title: 'Step 3', description: 'Make payment to start using', image: '/images/placeholder3.avif', position: 'right', isCenter: false },
           ]}
